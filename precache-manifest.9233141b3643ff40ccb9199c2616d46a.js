@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc1b7511672ffd57e87e10d264a1657a",
+    "revision": "ea5ba03bbec9f9089457b99cb33498b6",
     "url": "/task-app-chrome/index.html"
   },
   {
-    "revision": "40a2844ccb719b9ae069",
+    "revision": "fb5fc269ff2d267e0352",
     "url": "/task-app-chrome/static/css/2.3b6f1bda.chunk.css"
   },
   {
-    "revision": "c8914d9fb69be41a3d25",
+    "revision": "d3e75995abf7b41146a0",
     "url": "/task-app-chrome/static/css/main.96b624e3.chunk.css"
   },
   {
-    "revision": "40a2844ccb719b9ae069",
-    "url": "/task-app-chrome/static/js/2.f803c549.chunk.js"
+    "revision": "fb5fc269ff2d267e0352",
+    "url": "/task-app-chrome/static/js/2.78a6b404.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/task-app-chrome/static/js/2.f803c549.chunk.js.LICENSE.txt"
+    "url": "/task-app-chrome/static/js/2.78a6b404.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c8914d9fb69be41a3d25",
-    "url": "/task-app-chrome/static/js/main.15404933.chunk.js"
+    "revision": "d3e75995abf7b41146a0",
+    "url": "/task-app-chrome/static/js/main.eb9c476a.chunk.js"
   },
   {
-    "revision": "c8b55cad392c5fbfdbe2",
-    "url": "/task-app-chrome/static/js/runtime-main.d2aff215.js"
+    "revision": "d45111cb6050653578d0",
+    "url": "/task-app-chrome/static/js/runtime-main.63a914a4.js"
   },
   {
     "revision": "006522fe5d33edea0febf12d84007c42",

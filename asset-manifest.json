@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/task-app-chrome/static/css/main.96b624e3.chunk.css",
-    "main.js": "/task-app-chrome/static/js/main.15404933.chunk.js",
-    "main.js.map": "/task-app-chrome/static/js/main.15404933.chunk.js.map",
-    "runtime-main.js": "/task-app-chrome/static/js/runtime-main.d2aff215.js",
-    "runtime-main.js.map": "/task-app-chrome/static/js/runtime-main.d2aff215.js.map",
+    "main.js": "/task-app-chrome/static/js/main.eb9c476a.chunk.js",
+    "main.js.map": "/task-app-chrome/static/js/main.eb9c476a.chunk.js.map",
+    "runtime-main.js": "/task-app-chrome/static/js/runtime-main.63a914a4.js",
+    "runtime-main.js.map": "/task-app-chrome/static/js/runtime-main.63a914a4.js.map",
     "static/css/2.3b6f1bda.chunk.css": "/task-app-chrome/static/css/2.3b6f1bda.chunk.css",
-    "static/js/2.f803c549.chunk.js": "/task-app-chrome/static/js/2.f803c549.chunk.js",
-    "static/js/2.f803c549.chunk.js.map": "/task-app-chrome/static/js/2.f803c549.chunk.js.map",
+    "static/js/2.78a6b404.chunk.js": "/task-app-chrome/static/js/2.78a6b404.chunk.js",
+    "static/js/2.78a6b404.chunk.js.map": "/task-app-chrome/static/js/2.78a6b404.chunk.js.map",
     "index.html": "/task-app-chrome/index.html",
-    "precache-manifest.ec72b43880fe1a65a5d590c6abdc2d81.js": "/task-app-chrome/precache-manifest.ec72b43880fe1a65a5d590c6abdc2d81.js",
+    "precache-manifest.9233141b3643ff40ccb9199c2616d46a.js": "/task-app-chrome/precache-manifest.9233141b3643ff40ccb9199c2616d46a.js",
     "service-worker.js": "/task-app-chrome/service-worker.js",
     "static/css/2.3b6f1bda.chunk.css.map": "/task-app-chrome/static/css/2.3b6f1bda.chunk.css.map",
     "static/css/main.96b624e3.chunk.css.map": "/task-app-chrome/static/css/main.96b624e3.chunk.css.map",
-    "static/js/2.f803c549.chunk.js.LICENSE.txt": "/task-app-chrome/static/js/2.f803c549.chunk.js.LICENSE.txt",
+    "static/js/2.78a6b404.chunk.js.LICENSE.txt": "/task-app-chrome/static/js/2.78a6b404.chunk.js.LICENSE.txt",
     "static/media/Add.png": "/task-app-chrome/static/media/Add.006522fe.png",
     "static/media/anonymous.png": "/task-app-chrome/static/media/anonymous.31cb6acd.png",
     "static/media/completed.png": "/task-app-chrome/static/media/completed.6afd2373.png",
     "static/media/mic.png": "/task-app-chrome/static/media/mic.9a793b73.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d2aff215.js",
+    "static/js/runtime-main.63a914a4.js",
     "static/css/2.3b6f1bda.chunk.css",
-    "static/js/2.f803c549.chunk.js",
+    "static/js/2.78a6b404.chunk.js",
     "static/css/main.96b624e3.chunk.css",
-    "static/js/main.15404933.chunk.js"
+    "static/js/main.eb9c476a.chunk.js"
   ]
 }
